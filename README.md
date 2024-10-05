@@ -17,10 +17,10 @@ Using React, UI Components. Our application enables farmers to have a simple und
 We used Claude.ai to get examples of what data we can get from APIs, process the data without having to go through entire large datasets and visualizing the data in combination with the thought process we have with the idea, editing and modifying conditions we determined were irrelevant and adding information that adds better usability.
 
 ## Space Agency Data
-[NASA SMAP (Soil Moisture Active Passive)](https://smap.jpl.nasa.gov/)
-[Copernicus Global Land Service](https://land.copernicus.eu/en)
-[SMOS (Soil Moisture and Ocean Salinity)](https://earth.esa.int/eogateway/missions/smos)
-[EUMETSAT H SAF](https://www.eumetsat.int/h-saf)
+* [NASA SMAP (Soil Moisture Active Passive)](https://smap.jpl.nasa.gov/)
+* [Copernicus Global Land Service](https://land.copernicus.eu/en)
+* [SMOS (Soil Moisture and Ocean Salinity)](https://earth.esa.int/eogateway/missions/smos)
+* [EUMETSAT H SAF](https://www.eumetsat.int/h-saf)
 
 ## References
 N/A
