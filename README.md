@@ -5,7 +5,7 @@ Here we are, our repo of the NASA hackathon app challenge 2024 GBG!
 We are developing an application that enables farmers to understand in a simple manner key aspects of agriculture which impacts the health of their crops and conditions of their soil.
 
 ## Project Demo
-N/A
+[Web App Demo](https://youtu.be/NkQ4t4_k3aY)
 
 ## Final Project
 N/A
