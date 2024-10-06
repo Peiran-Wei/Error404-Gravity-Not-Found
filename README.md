@@ -14,7 +14,7 @@ We are developing an application that enables farmers to understand in a simple 
 
 ## Project Demo
 [Web App Demo](https://youtu.be/NkQ4t4_k3aY)
-![screenshot](截屏2024-10-06 16.10.24.png)
+![Screenshot](截屏2024-10-06 16.10.24.png)
 
 ## Final Project
 https://github.com/Peiran-Wei/Error404-Gravity-Not-Found
