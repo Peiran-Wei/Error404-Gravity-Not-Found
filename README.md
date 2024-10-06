@@ -1,6 +1,14 @@
 # Error404-Gravity-Not-Found
 Here we are, our repo of the NASA hackathon app challenge 2024 GBG!
 
+# Project Contributors
+Peiran Wei (Commited code and additional functionality to repository)
+Cui Zizhuang (Worked in local environment, shared with team in Discord)
+Adelric Wong (Worked in local environment, shared with team in Discord)
+Xiang Xu (Commited code and additional functionality to repository)
+Mengting Wang (Worked in local environment, shared with team in Discord)
+
+
 ## High-Level Summary
 We are developing an application that enables farmers to understand in a simple manner key aspects of agriculture which impacts the health of their crops and conditions of their soil.
 
@@ -8,7 +16,7 @@ We are developing an application that enables farmers to understand in a simple 
 [Web App Demo](https://youtu.be/NkQ4t4_k3aY)
 
 ## Final Project
-N/A
+https://github.com/Peiran-Wei/Error404-Gravity-Not-Found
 
 ## Project Details
 Using React, UI Components. Our application enables farmers to have a simple understanding of their soil data and the surrounding environmental conditions that affect the health of their land without all the complexities of processing or interpreting large datasets which if the everyday individual looks at that and does not understand, how can they farmers be expected to understand? We keep things simple and intuitive.
