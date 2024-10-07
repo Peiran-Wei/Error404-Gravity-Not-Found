@@ -2,11 +2,11 @@
 Here we are, our repo of the NASA hackathon app challenge 2024 GBG!
 
 # Project Contributors
-Peiran Wei (Commited code and additional functionality to repository)
-Cui Zizhuang (Worked in local environment, shared with team in Discord)
-Adelric Wong (Worked in local environment, shared with team in Discord)
-Xiang Xu (Commited code and additional functionality to repository)
-Mengting Wang (Worked in local environment, shared with team in Discord)
+* Peiran Wei (Commited code and additional functionality to repository)
+* Cui Zizhuang (Worked in local environment, shared with team in Discord)
+* Adelric Wong (Worked in local environment, shared with team in Discord)
+* Xiang Xu (Commited code and additional functionality to repository)
+* Mengting Wang (Worked in local environment, shared with team in Discord)
 
 
 ## High-Level Summary
